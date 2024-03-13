@@ -1,0 +1,33 @@
+.container { 
+	display: flex; 
+	flex-direction: column; 
+	width: 25vw; 
+	margin-left: 500px; 
+	padding: 50px; 
+	background-color: rgb(3, 13, 13); 
+  color:aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+} 
+.table { 
+	border: 2px solid rgb(234, 229, 229); 
+} 
+
+.row { 
+	border: 2px solid rgb(247, 246, 246); 
+} 
+.no-of-notes { 
+	border: 2px solid rgb(247, 242, 242); 
+} 
+
+.check-btn { 
+	margin-top: 35px; 
+	padding: 5px; 
+} 
+.input-bill { 
+	margin-top: 35px; 
+	padding: 5px; 
+} 
+.cash-given { 
+	margin-top: 35px; 
+	padding: 5px; 
+}
